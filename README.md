@@ -5,9 +5,9 @@ HEADERS:
 
 EMPHASIS:
 
-*This text will be italic*
-**This text will be bold**
-*You **can** combine them*
+*This text will be italic
+**This text will be bold
+*You **can** combine them
 
 LISTS:
 * Item 1
