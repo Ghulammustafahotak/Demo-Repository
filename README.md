@@ -5,9 +5,9 @@ HEADERS:
 
 EMPHASIS:
 
-*This text will be italic
-**This text will be bold
-*You **can** combine them
+*This text will be italic*
+**This text will be bold**
+*You **can** combine them*
 
 LISTS:
 * Item 1
@@ -25,3 +25,7 @@ ORDERED:
 BLOCKQUOTES:
 > I have always been more interested
 > in the futrure than in the past.
+
+IMAGES:
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
